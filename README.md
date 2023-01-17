@@ -2,6 +2,6 @@
 
 How to use it?
 
-Only test in Kali
+Only tested on Kali for Raspberry pi 4B 
 
 run "python3 sysinfo.py" in terminal
